@@ -41,7 +41,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    '.herokuapp.com',
+    'damp-reef-27814.herokuapp.com',
 ]
 
 
