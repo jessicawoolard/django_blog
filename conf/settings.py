@@ -29,6 +29,7 @@ STATICFILES_FINDERS = [
 ]
 # ======== END STATIC FILE CONFIGURATION
 
+MEDIA_ROOT = 'media/'
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
