@@ -1,0 +1,28 @@
+header {
+    text-align: center;
+    font-size: 75px;
+    font-family: Helvetica sans-serif;
+    border-bottom: 2px solid #D25894;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h5 {
+    text-align: center;
+    font-size: 30px;
+
+}
+p{
+    text-align: center;
+    font-style: italic;
+
+}
+.container {
+    margin-bottom: 90px;
+    margin-top: 50px;
+}
